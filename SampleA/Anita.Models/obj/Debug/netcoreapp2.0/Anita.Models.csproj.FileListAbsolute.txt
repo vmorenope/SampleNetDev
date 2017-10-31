@@ -1,0 +1,9 @@
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\bin\Debug\netcoreapp2.0\Anita.Models.deps.json
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\bin\Debug\netcoreapp2.0\Anita.Models.dll
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\obj\Debug\netcoreapp2.0\Anita.Models.csprojResolveAssemblyReference.cache
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\obj\Debug\netcoreapp2.0\Anita.Models.csproj.CoreCompileInputs.cache
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\obj\Debug\netcoreapp2.0\Anita.Models.AssemblyInfoInputs.cache
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\obj\Debug\netcoreapp2.0\Anita.Models.AssemblyInfo.cs
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\bin\Debug\netcoreapp2.0\Anita.Models.pdb
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\obj\Debug\netcoreapp2.0\Anita.Models.dll
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\SampleA\Anita.Models\obj\Debug\netcoreapp2.0\Anita.Models.pdb
