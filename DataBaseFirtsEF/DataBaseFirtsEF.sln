@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackEnd", "BackEnd", "{9655E207-4346-4176-9709-F97630522F02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{CA3B17D5-1620-4B1D-B16E-CF71EDD29AC6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBFirts.Models", "DBFirts.Model\DBFirts.Models.csproj", "{0C69BE53-BF17-4CBB-9513-94BD58D65B4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C69BE53-BF17-4CBB-9513-94BD58D65B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C69BE53-BF17-4CBB-9513-94BD58D65B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C69BE53-BF17-4CBB-9513-94BD58D65B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C69BE53-BF17-4CBB-9513-94BD58D65B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CA3B17D5-1620-4B1D-B16E-CF71EDD29AC6} = {9655E207-4346-4176-9709-F97630522F02}
+		{0C69BE53-BF17-4CBB-9513-94BD58D65B4B} = {CA3B17D5-1620-4B1D-B16E-CF71EDD29AC6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C18CDB8-4617-4842-96A2-02E6D790A095}
+	EndGlobalSection
+EndGlobal

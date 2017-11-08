@@ -1,0 +1,6 @@
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\DataBaseFirtsEF\DBFirts.AccesoDatos\bin\Debug\netcoreapp2.0\DBFirts.Modelo.deps.json
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\DataBaseFirtsEF\DBFirts.AccesoDatos\bin\Debug\netcoreapp2.0\DBFirts.Modelo.dll
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\DataBaseFirtsEF\DBFirts.AccesoDatos\obj\Debug\netcoreapp2.0\DBFirts.Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\DataBaseFirtsEF\DBFirts.AccesoDatos\obj\Debug\netcoreapp2.0\DBFirts.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\DataBaseFirtsEF\DBFirts.AccesoDatos\obj\Debug\netcoreapp2.0\DBFirts.Modelo.AssemblyInfoInputs.cache
+C:\Users\Victor.Moreno\Source\Repos\SampleNetDev\DataBaseFirtsEF\DBFirts.AccesoDatos\obj\Debug\netcoreapp2.0\DBFirts.Modelo.AssemblyInfo.cs
